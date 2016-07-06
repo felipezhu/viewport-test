@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="viewport"  content="width=device-width, 
+                    initial-scale=1.0, 
+                    maximum-scale=1.0, 
+                    user-scalable=no">
+<meta charset="uft-8">
+
+<style>
+
+img {
+	max-width:100%;
+	height:auto;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+p{
+  font-size:1.5em;
+ }
+
+.headline{
+	width:80%;
+	background:#fff;
+	margin:0 auto;
+	margin-top:5%;
+	}
+
+.mainbody{
+	width :70%;
+	background:#fff;
+	margin:0 auto;
+	margin-top:3%;
+	
+	}
+#icon{
+	width:20%;
+	float:right;
+	margin:auto 3%;
+	
+}
+
+
+#username{
+	
+	width:15%;
+	float:right;
+	margin:3%;
+	
+}
+p {text-indent: 2em;}
+
+
+
+</style>
+
+</head>
+
+<body>
+
+
+<div class="headline">
+<img src="t2.jpg"  width="800" height="600">
+</div>
+
+
+
+<div class="mainbody">
+<p>我随便写点啥测试下看看，长长长长长长长长长长长长长长长,长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长,长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长,长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长,长长长长长长长长长长长长,长长长长长长长长长长长长长长长长长长</p>
+
+<div id = "username">
+someone
+</div>
+<div id = "icon">
+<img src="t.jpg">
+</div>
+</div>
+
+
+</body>
+</html>
